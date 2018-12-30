@@ -1,0 +1,23 @@
+{
+  "name": "mt-blog",
+  "version": "1.0.0",
+  "description": "blog ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TurtleSmasher61/mt-blog.git"
+  },
+  "author": "Turt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TurtleSmasher61/mt-blog/issues"
+  },
+  "homepage": "https://github.com/TurtleSmasher61/mt-blog#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}
